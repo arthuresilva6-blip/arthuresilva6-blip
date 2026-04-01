@@ -32,9 +32,11 @@
 </div>
 
 <div>
-<a href="https://github.com/arthuresilva6-blip">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthuresilva6-blip&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=arthuresilva6-blip&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthuresilva6-blip&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="arthuresilva6-blip" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthuresilva6-blip&show_icons=true&locale=en&theme=tokyonight" alt="Arthur Silva" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthuresilva6-blip&&theme=tokyonight" alt="Rafael Altieris Almeida dos Santos" /></p>
 </div>
 
 
