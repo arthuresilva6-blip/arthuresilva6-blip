@@ -31,15 +31,8 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthuresilva6-blip&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="arthuresilva6-blip" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthuresilva6-blip&show_icons=true&locale=en&theme=tokyonight" alt="Arthur Silva" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthuresilva6-blip&&theme=tokyonight" alt="arthuresilva6-blip" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthuresilva6-blip&&theme=tokyonight" alt="Rafael Altieris Almeida dos Santos" /></p>
-</div>
-
-
-
-![Snake animation](https://github.com/arthuresilva6-blip/arthuresilva6-blip/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/arthuresilva6-blip/arthuresilva6-blip/blob/output/github-contribution-grid-snake-dark.svg)
 
